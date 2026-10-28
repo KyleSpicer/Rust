@@ -1,0 +1,4 @@
+# Only parse_cla is tracked for now
+/hello/
+/rust-notes/
+target/
